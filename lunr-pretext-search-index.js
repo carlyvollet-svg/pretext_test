@@ -10,92 +10,110 @@ var ptx_lunr_docs = [
   "body": "  "
 },
 {
-  "id": "IntegraionBee_26",
+  "id": "sec-IB_26",
   "level": "1",
-  "url": "IntegraionBee_26.html",
+  "url": "sec-IB_26.html",
   "type": "Worksheet",
   "number": "1.1",
   "title": "2026 Integration Bee",
   "body": " 2026 Integration Bee   Final Round            Third Place Tie Breaker            Semi-Finals                              Quarter Finals                ,      "
 },
 {
-  "id": "IntegraionBee_26-2-2",
+  "id": "sec-IB_26-2-2",
   "level": "2",
-  "url": "IntegraionBee_26.html#IntegraionBee_26-2-2",
+  "url": "sec-IB_26.html#sec-IB_26-2-2",
   "type": "Worksheet Exercise",
   "number": "1.1.1",
   "title": "",
   "body": "       "
 },
 {
-  "id": "IntegraionBee_26-3-2",
+  "id": "sec-IB_26-3-2",
   "level": "2",
-  "url": "IntegraionBee_26.html#IntegraionBee_26-3-2",
+  "url": "sec-IB_26.html#sec-IB_26-3-2",
   "type": "Worksheet Exercise",
   "number": "1.1.2",
   "title": "",
   "body": "       "
 },
 {
-  "id": "IntegraionBee_26-4-2",
+  "id": "sec-IB_26-4-2",
   "level": "2",
-  "url": "IntegraionBee_26.html#IntegraionBee_26-4-2",
+  "url": "sec-IB_26.html#sec-IB_26-4-2",
   "type": "Worksheet Exercise",
   "number": "1.1.3",
   "title": "",
   "body": "       "
 },
 {
-  "id": "IntegraionBee_26-4-3",
+  "id": "sec-IB_26-4-3",
   "level": "2",
-  "url": "IntegraionBee_26.html#IntegraionBee_26-4-3",
+  "url": "sec-IB_26.html#sec-IB_26-4-3",
   "type": "Worksheet Exercise",
   "number": "1.1.4",
   "title": "",
   "body": "         "
 },
 {
-  "id": "IntegraionBee_26-4-4",
+  "id": "sec-IB_26-4-4",
   "level": "2",
-  "url": "IntegraionBee_26.html#IntegraionBee_26-4-4",
+  "url": "sec-IB_26.html#sec-IB_26-4-4",
   "type": "Worksheet Exercise",
   "number": "1.1.5",
   "title": "",
   "body": "       "
 },
 {
-  "id": "IntegraionBee_26-5-2",
+  "id": "sec-IB_26-5-2",
   "level": "2",
-  "url": "IntegraionBee_26.html#IntegraionBee_26-5-2",
+  "url": "sec-IB_26.html#sec-IB_26-5-2",
   "type": "Worksheet Exercise",
   "number": "1.1.6",
   "title": "",
   "body": "       "
 },
 {
-  "id": "IntegraionBee_26-5-3",
+  "id": "sec-IB_26-5-3",
   "level": "2",
-  "url": "IntegraionBee_26.html#IntegraionBee_26-5-3",
+  "url": "sec-IB_26.html#sec-IB_26-5-3",
   "type": "Worksheet Exercise",
   "number": "1.1.7",
   "title": "",
   "body": "      ,    "
 },
 {
-  "id": "IntegraionBee_25",
+  "id": "sec-IB_25",
   "level": "1",
-  "url": "IntegraionBee_25.html",
+  "url": "sec-IB_25.html",
   "type": "Worksheet",
   "number": "1.2",
   "title": "2025 Integration Bee",
   "body": " 2025 Integration Bee   Sample Questions           "
 },
 {
-  "id": "IntegraionBee_25-2-2",
+  "id": "sec-IB_25-2-2",
   "level": "2",
-  "url": "IntegraionBee_25.html#IntegraionBee_25-2-2",
+  "url": "sec-IB_25.html#sec-IB_25-2-2",
   "type": "Worksheet Exercise",
   "number": "1.2.1",
+  "title": "",
+  "body": "       "
+},
+{
+  "id": "sec-OpenMath",
+  "level": "1",
+  "url": "sec-OpenMath.html",
+  "type": "Worksheet",
+  "number": "2.1",
+  "title": "2025 Open Mathematics Contest",
+  "body": " 2025 Open Mathematics Contest   Sample Questions           "
+},
+{
+  "id": "sec-OpenMath-2-2",
+  "level": "2",
+  "url": "sec-OpenMath.html#sec-OpenMath-2-2",
+  "type": "Worksheet Exercise",
+  "number": "2.1.1",
   "title": "",
   "body": "       "
 },
