@@ -16,23 +16,50 @@ var ptx_lunr_docs = [
   "type": "Worksheet",
   "number": "1.1",
   "title": "2026 Integration Bee",
-  "body": " 2026 Integration Bee   Final Round            Third Place Tie Breaker            Semi-Finals                              Quarter Finals                ,      "
-},
-{
-  "id": "sec-IB_26-2-2",
-  "level": "2",
-  "url": "sec-IB_26.html#sec-IB_26-2-2",
-  "type": "Worksheet Exercise",
-  "number": "1.1.1",
-  "title": "",
-  "body": "       "
+  "body": " 2026 Integration Bee  April 17th, 2026   Qualifying Round                                            Quarter Finals                ,       Semi-Finals                              Third Place Tie Breaker            Final Round           "
 },
 {
   "id": "sec-IB_26-3-2",
   "level": "2",
   "url": "sec-IB_26.html#sec-IB_26-3-2",
   "type": "Worksheet Exercise",
+  "number": "1.1.1",
+  "title": "",
+  "body": "       "
+},
+{
+  "id": "sec-IB_26-3-3",
+  "level": "2",
+  "url": "sec-IB_26.html#sec-IB_26-3-3",
+  "type": "Worksheet Exercise",
   "number": "1.1.2",
+  "title": "",
+  "body": "       "
+},
+{
+  "id": "sec-IB_26-3-4",
+  "level": "2",
+  "url": "sec-IB_26.html#sec-IB_26-3-4",
+  "type": "Worksheet Exercise",
+  "number": "1.1.3",
+  "title": "",
+  "body": "       "
+},
+{
+  "id": "sec-IB_26-3-5",
+  "level": "2",
+  "url": "sec-IB_26.html#sec-IB_26-3-5",
+  "type": "Worksheet Exercise",
+  "number": "1.1.4",
+  "title": "",
+  "body": "       "
+},
+{
+  "id": "sec-IB_26-3-6",
+  "level": "2",
+  "url": "sec-IB_26.html#sec-IB_26-3-6",
+  "type": "Worksheet Exercise",
+  "number": "1.1.5",
   "title": "",
   "body": "       "
 },
@@ -41,7 +68,7 @@ var ptx_lunr_docs = [
   "level": "2",
   "url": "sec-IB_26.html#sec-IB_26-4-2",
   "type": "Worksheet Exercise",
-  "number": "1.1.3",
+  "number": "1.1.6",
   "title": "",
   "body": "       "
 },
@@ -50,25 +77,16 @@ var ptx_lunr_docs = [
   "level": "2",
   "url": "sec-IB_26.html#sec-IB_26-4-3",
   "type": "Worksheet Exercise",
-  "number": "1.1.4",
+  "number": "1.1.7",
   "title": "",
-  "body": "         "
-},
-{
-  "id": "sec-IB_26-4-4",
-  "level": "2",
-  "url": "sec-IB_26.html#sec-IB_26-4-4",
-  "type": "Worksheet Exercise",
-  "number": "1.1.5",
-  "title": "",
-  "body": "       "
+  "body": "      ,    "
 },
 {
   "id": "sec-IB_26-5-2",
   "level": "2",
   "url": "sec-IB_26.html#sec-IB_26-5-2",
   "type": "Worksheet Exercise",
-  "number": "1.1.6",
+  "number": "1.1.8",
   "title": "",
   "body": "       "
 },
@@ -77,9 +95,36 @@ var ptx_lunr_docs = [
   "level": "2",
   "url": "sec-IB_26.html#sec-IB_26-5-3",
   "type": "Worksheet Exercise",
-  "number": "1.1.7",
+  "number": "1.1.9",
   "title": "",
-  "body": "      ,    "
+  "body": "         "
+},
+{
+  "id": "sec-IB_26-5-4",
+  "level": "2",
+  "url": "sec-IB_26.html#sec-IB_26-5-4",
+  "type": "Worksheet Exercise",
+  "number": "1.1.10",
+  "title": "",
+  "body": "       "
+},
+{
+  "id": "sec-IB_26-6-2",
+  "level": "2",
+  "url": "sec-IB_26.html#sec-IB_26-6-2",
+  "type": "Worksheet Exercise",
+  "number": "1.1.11",
+  "title": "",
+  "body": "       "
+},
+{
+  "id": "sec-IB_26-7-2",
+  "level": "2",
+  "url": "sec-IB_26.html#sec-IB_26-7-2",
+  "type": "Worksheet Exercise",
+  "number": "1.1.12",
+  "title": "",
+  "body": "       "
 },
 {
   "id": "sec-IB_25",
